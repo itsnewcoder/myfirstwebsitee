@@ -1,0 +1,67 @@
+h1{
+	color: blue;
+	border: 5px solid red;
+	background: lightyellow;
+	text-align: center;
+}
+
+body{
+	background-image: url("https://img.freepik.com/free-photo/oak-wooden-textured-design-background_53876-143033.jpg?size=626&ext=jpg");
+	background-repeat:repeat;
+}
+
+#id1{
+	color: black;
+	border: 5px solid black;
+	font-size: 55px;
+	background: lightyellow;
+	text-align: center;
+}
+
+#id2{
+	color: black;
+	border: 5px solid black;
+	font-size: 55px;
+	background: purple;
+	text-align: center;
+}
+	
+#id3{
+	color: black;
+	border: 5px solid black;
+	font-size: 55px;
+	background: lightblue;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.cl1{
+	color: black;
+	border: 5px solid black;
+	font-size: 55px;
+	background: lightyellow;
+	text-align: center;
+}
+
+a.cl1{
+	color: black;
+	border: 5px solid red;
+	text-align: center;
+}
+
+img{
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.cl2{
+	color: black;
+	border: 5px solid red;
+	text-align: center;
+	font-size: 55px;
+}
+	
+
+
